@@ -24,7 +24,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"world:\/\/lobby\/main.json"
+                 "value":"pcb.json#start_bakery"
                 }],
          "type":"tilelayer",
          "visible":false,
