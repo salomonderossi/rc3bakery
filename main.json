@@ -27,7 +27,7 @@
                  "value":"world:\/\/lobby\/main.json"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":15,
          "x":0,
          "y":0
